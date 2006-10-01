@@ -1,0 +1,20 @@
+Files o.cvsbook-1.21-texi/cvsbook.info.gz and n.cvsbook-1.21-texi/cvsbook.info.gz differ
+diff -Nur -x '*~' o.cvsbook-1.21-texi/main.texi n.cvsbook-1.21-texi/main.texi
+--- o.cvsbook-1.21-texi/main.texi	2004-05-26 22:40:42.000000000 +0200
++++ n.cvsbook-1.21-texi/main.texi	2006-10-01 00:17:21.000000000 +0200
+@@ -31,11 +31,10 @@
+ @end ifhtml
+ 
+ @ifinfo
+-@format
+-START-INFO-DIR-ENTRY
+-* CVS Book: (cvsbook).          A CVS tutorial and reference.
+-END-INFO-DIR-ENTRY
+-@end format
++@dircategory	Version control:
++@direntry
++* CVS Book: (cvsbook).                  A CVS tutorial and reference
++@end direntry
+ @end ifinfo
+ 
+ @ifnottex
