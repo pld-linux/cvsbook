@@ -1,5 +1,5 @@
 Summary:	CVS book
-Summary(pl):	Ksi±¿ka o CVS-ie
+Summary(pl.UTF-8):   KsiÄ…Å¼ka o CVS-ie
 Name:		cvsbook
 Version:	1.21
 Release:	1
@@ -20,13 +20,13 @@ control. It covers everything from CVS installation and basic
 concepts all the way to advanced usage and administration. It is
 intended for anyone who uses or plans to use CVS.
 
-%description -l pl
-Zbiór wolnodostêpnych rozdzia³ów ksi±¿ki "Open Source development with
-CVS" (rozwijanie oprogramowania o otwartych ¼ród³ach przy u¿yciu
-CVS-u) o korzystaniu z CVS-u do wspólnej pracy i kontroli wersji.
+%description -l pl.UTF-8
+ZbiÃ³r wolnodostÄ™pnych rozdziaÅ‚Ã³w ksiÄ…Å¼ki "Open Source development with
+CVS" (rozwijanie oprogramowania o otwartych ÅºrÃ³dÅ‚ach przy uÅ¼yciu
+CVS-u) o korzystaniu z CVS-u do wspÃ³lnej pracy i kontroli wersji.
 Pokrywa wszystko od instalacji CVS-u i podstawowych idei do
-zaawansowanych zastosowañ i administracji. Jest przeznaczony dla
-ka¿dego, kto u¿ywa lub planuje u¿ywaæ CVS-u.
+zaawansowanych zastosowaÅ„ i administracji. Jest przeznaczony dla
+kaÅ¼dego, kto uÅ¼ywa lub planuje uÅ¼ywaÄ‡ CVS-u.
 
 %prep
 %setup -q
