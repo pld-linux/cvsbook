@@ -1,5 +1,5 @@
 Summary:	CVS book
-Summary(pl.UTF-8):   Książka o CVS-ie
+Summary(pl.UTF-8):	Książka o CVS-ie
 Name:		cvsbook
 Version:	1.21
 Release:	1
